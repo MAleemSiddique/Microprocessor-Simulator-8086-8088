@@ -23,7 +23,7 @@
 <ul>
   <li> Hammad Ahmed </li>
   <li> Abdullah Khan </li>
-  <li> Aleem Khan </li>
+  <li> Muhammad Aleem Siddique Khan </li>
   <li> Yusuf Haroon </li>
 </ul>
 
