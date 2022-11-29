@@ -21,10 +21,11 @@
 
 <h2> Team Members - Students of BSCS Nust </h2>
 <ul>
-  <li> Hammad Ahmed </li>
   <li> Abdullah Khan </li>
-  <li> Aleem Khan </li>
+  <li> Aleem Siddique </li>
+  <li> Hammad Ahmed </li>
   <li> Yusuf Haroon </li>
+  <li> Rayyan Lakhani </li>
 </ul>
 
 
