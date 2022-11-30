@@ -22,7 +22,7 @@
 <h2> Team Members - Students of BSCS Nust </h2>
 <ul>
   <li> Abdullah Khan </li>
-  <li> Aleem Siddique </li>
+  <li> Muhammad Aleem Siddique Khan </li>
   <li> Hammad Ahmed </li>
   <li> Yusuf Haroon </li>
   <li> Rayyan Lakhani </li>
